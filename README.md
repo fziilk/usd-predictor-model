@@ -4,7 +4,7 @@
 
 # USD-Predictor
 
-USD-Predictor is a Linear Regression model built with Scikit-Learn API. As the name suggests USD-Predictor model's objective is to predict the USD price in IDR. USD-Predictor will receive a date as an input variable, and the Open, Close, and Adjusted Close price will be the model's output variable.
+USD-Predictor is a Linear Regression model built with Scikit-Learn's API. As the name suggests USD-Predictor model's objective is to predict the USD price. The prediction will be in the IDR currency. The model will receive a date as an input variable, and the Open, Close, and Adjusted Close price will be the model's output variable.
 
 ## Installation
 
