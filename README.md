@@ -1,6 +1,6 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fachrizzz/usd-predictor-model)](https://github.com/fachrizzz/usd-predictor-model)
-[![GitHub repo size](https://img.shields.io/github/repo-size/fachrizzz/usd-predictor-model)](https://github.com/fachrizzz/usd-predictor-model)
-[![GitHub language count](https://img.shields.io/github/languages/count/fachrizzz/usd-predictor-model)](https://github.com/fachrizzz/usd-predictor-model)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fziilk/usd-predictor-model)](https://github.com/fziilk/usd-predictor-model)
+[![GitHub repo size](https://img.shields.io/github/repo-size/fziilk/usd-predictor-model)](https://github.com/fziilk/usd-predictor-model)
+[![GitHub language count](https://img.shields.io/github/languages/count/fziilk/usd-predictor-model)](https://github.com/fziilk/usd-predictor-model)
 
 # USD-Predictor
 
